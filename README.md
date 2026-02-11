@@ -10,6 +10,7 @@
    6. Support early fault identification
    7. Provide clear visual insights for operators
    8. The project prioritizes explainability, simplicity, and real-world usability.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Objectives:**
 
@@ -19,6 +20,7 @@
    4. Identify anomalous or underperforming days.
    5. Present results through clear and intuitive visualizations.
    6. Ensure the entire system is easy to run on Google Colab.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Key Concepts Used:**
 
@@ -26,6 +28,7 @@
    2. Lists (time-ordered energy values).
    3. Dictionaries (date-wise storage and indexing).
    4. Structured records using Python data classes.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Statistical Analysis:**
 
@@ -35,16 +38,18 @@
    4. Lightweight Machine Learning.
    5. Isolation Forest (used only for diagnostic anomaly support).
    6. No black-box prediction or heavy training pipelines.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **System Features:**
 
-✔ Validated daily data entry.
-✔ Automatic handling of duplicate dates.
-✔ Summary performance statistics.
-✔ Detection of unusual generation patterns.
-✔ Clean plots for trends and distributions.
-✔ Fully reproducible execution.
-✔ Minimal setup, runs directly on Google Colab.
+1. Validated daily data entry.
+2. Automatic handling of duplicate dates.
+3. Summary performance statistics.
+4. Detection of unusual generation patterns.
+5. Clean plots for trends and distributions.
+6. Fully reproducible execution.
+7. Minimal setup, runs directly on Google Colab.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Outputs Generated:**
 
@@ -52,6 +57,7 @@
 2. Total energy generated.
 3. Average daily generation.
 4. Count of detected anomalies.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Visual outputs**
 
@@ -59,6 +65,7 @@
 2. Distribution of energy values.
 3. Highlighted abnormal days.
 4. These outputs help operators understand behavior, not just numbers.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Tech Stack:**
 
@@ -69,6 +76,7 @@ Data Management: Pandas.
 Visualization: Matplotlib, Seaborn.
 Machine Learning (Lightweight): Scikit-learn (Isolation Forest).
 Environment: Google Colab.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **How to Run:**
 
@@ -77,6 +85,7 @@ Environment: Google Colab.
 3. Run all cells from top to bottom.
 4. No additional configuration required.
 5. The notebook is designed to be plug-and-play.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Use Cases:**
 
@@ -85,6 +94,7 @@ Environment: Google Colab.
 3. Engineers needing interpretable monitoring tools.
 4. Educational demonstrations of applied data analytics.
 5. Portfolio projects for data, ML, or sustainability roles.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Limitations:**
 
@@ -92,16 +102,19 @@ Environment: Google Colab.
 2. Dataset size is limited to demonstration scope.
 3. Focus is on monitoring and diagnostics, not forecasting.
 4. These are intentional design choices to preserve clarity and simplicity.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Key Takeaway**:
+
  - Transparent data collection combined with basic analytical techniques is sufficient to deliver meaningful insights for renewable energy monitoring—without heavy models or complex infrastructure.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Key Contributions:**
 
 Agnish Brahma(prototyping), Dr. Prasun Bhattacherjee(Research Mentor).
 B.Tech CSE (Final Year).
 Focus Areas: Data Analytics, Machine Learning, Renewable Energy Systems.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📄 License
-
-This project is intended for academic, educational, and portfolio use.
+**License:** MIT License.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
