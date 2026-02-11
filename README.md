@@ -3,12 +3,12 @@
 **Project Overview:**
 
    1. This project presents a clean, interpretable, and reproducible solar energy monitoring system designed for small rooftop and decentralized renewable energy installations.
-   2. Instead of relying on complex deep learning or proprietary tools, the system demonstrates how fundamental data structures, classical statistics, and lightweight machine learning can be effectively used
-   3. Record daily solar energy generation
-   4. Analyze system performance over time
-   5. Detect abnormal or low-generation days\
-   6. Support early fault identification
-   7. Provide clear visual insights for operators
+   2. Instead of relying on complex deep learning or proprietary tools, the system demonstrates how fundamental data structures, classical statistics, and lightweight machine learning can be effectively used.
+   3. Record daily solar energy generation.
+   4. Analyze system performance over time.
+   5. Detect abnormal or low-generation days.
+   6. Support early fault identification.
+   7. Provide clear visual insights for operators.
    8. The project prioritizes explainability, simplicity, and real-world usability.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
