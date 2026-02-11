@@ -69,13 +69,13 @@ ________________________________________________________________________________
 
 **Tech Stack:**
 
-Programming Language: Python.
-Data Handling: Python Lists, Dictionaries, Dataclasses.
-Numerical Analysis: NumPy.
-Data Management: Pandas.
-Visualization: Matplotlib, Seaborn.
-Machine Learning (Lightweight): Scikit-learn (Isolation Forest).
-Environment: Google Colab.
+1. Programming Language: Python.
+2. Data Handling: Python Lists, Dictionaries, Dataclasses.
+3. Numerical Analysis: NumPy.
+4. Data Management: Pandas.
+5. Visualization: Matplotlib, Seaborn.
+6. Machine Learning (Lightweight): Scikit-learn (Isolation Forest).
+7. Environment: Google Colab.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **How to Run:**
@@ -111,9 +111,8 @@ ________________________________________________________________________________
 
 **Key Contributions:**
 
-Agnish Brahma(prototyping), Dr. Prasun Bhattacherjee(Research Mentor).
-B.Tech CSE (Final Year).
-Focus Areas: Data Analytics, Machine Learning, Renewable Energy Systems.
+   1. Agnish Brahma(prototyping).
+   2. Dr. Prasun Bhattacherjee(Research Mentor).
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **License:** MIT License.
